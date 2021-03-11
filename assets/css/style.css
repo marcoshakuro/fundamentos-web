@@ -22,9 +22,8 @@
 .container{
     display: flex;
     background-color: rgb(228, 124, 124);
-    flex-wrap: row;
+    flex-wrap: row wrap;
     align-items: center;
-    border-radius: 20%;
     justify-content: center;
 }
 
